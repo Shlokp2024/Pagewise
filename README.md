@@ -2,7 +2,7 @@
 
 Upload a PDF and ask it questions in plain language. Pagewise answers using only your document and shows the pages each answer came from.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** (https://pagewise-ask-questions.streamlit.app/)
 
 ## Features
 
