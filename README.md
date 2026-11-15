@@ -73,16 +73,6 @@ Pagewise uses retrieval-augmented generation (RAG):
 
 The first run downloads the embedding model, so the first upload takes a little longer.
 
-## Deploy on Streamlit Community Cloud
-
-1. Push this project to a public GitHub repository. Do not commit `.env`.
-2. Sign in at share.streamlit.io with GitHub and click **Create app**.
-3. Choose your repository, the `main` branch and `app.py` as the main file.
-4. Open **Advanced settings** and add your key under **Secrets**:
-   ```
-   GROQ_API_KEY = "your-key-here"
-   ```
-5. Click **Deploy**.
 
 ## Limitations
 
