@@ -82,6 +82,4 @@ The first run downloads the embedding model, so the first upload takes a little 
 - Tables and complex layouts may not be extracted perfectly from some PDFs.
 - Answers depend on the language model and can still contain mistakes, so check important details against the source pages.
 
-## License
 
-Add a license of your choice, for example MIT.
